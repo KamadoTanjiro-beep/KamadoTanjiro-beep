@@ -16,7 +16,7 @@ I'm not looking for any job.<br>I'm looking for suggestions or updates on my pro
 ![](https://github-contributor-stats.vercel.app/api?username=KamadoTanjiro-beep&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+Coming Soon
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KamadoTanjiro-beep&icon=0&color=0)](https://visitcount.itsvg.in)
